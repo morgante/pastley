@@ -2,3 +2,14 @@
 body {
 	padding-top: 80px;
 }
+
+/* form */
+form.paste textarea {
+	width: 100%;
+	height: 400px;
+}
+
+/* info */
+#info #url {
+	width: 50%;
+}

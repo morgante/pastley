@@ -35,6 +35,9 @@ app.configure(function() {
 
 // set up routes
 app.get('/', main.index);
+app.post('/create', main.create);
+app.get('/paste/:id', main.get);
+// app.get('/destroy/:id', main.destory);
 
 // start listening
 app.listen( process.env.PORT , function() {
