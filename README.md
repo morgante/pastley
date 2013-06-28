@@ -1,4 +1,4 @@
-Node Pack
+Pastley
 ===
 
-This is a simple skeleton for rapidly building a node.js application.
+This is a simple pastebin app made in 1 hour for ArabNet 2013.
